@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/92/trunk/as3/tags/1_5/src/org/papervision3d/core/culling
+END
+CompositeTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/92/trunk/as3/tags/1_5/src/org/papervision3d/core/culling/CompositeTriangleCuller.as
+END
+RectangleTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/92/trunk/as3/tags/1_5/src/org/papervision3d/core/culling/RectangleTriangleCuller.as
+END
+DepthTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/92/trunk/as3/tags/1_5/src/org/papervision3d/core/culling/DepthTriangleCuller.as
+END
+DefaultTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/92/trunk/as3/tags/1_5/src/org/papervision3d/core/culling/DefaultTriangleCuller.as
+END
+ITriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/92/trunk/as3/tags/1_5/src/org/papervision3d/core/culling/ITriangleCuller.as
+END

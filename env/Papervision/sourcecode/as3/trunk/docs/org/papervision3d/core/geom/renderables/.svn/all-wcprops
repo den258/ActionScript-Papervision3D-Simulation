@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables
+END
+IRenderable.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/IRenderable.html
+END
+Triangle3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Triangle3D.html
+END
+Line3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Line3D.html
+END
+class-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/class-list.html
+END
+Triangle3DInstance.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Triangle3DInstance.html
+END
+Particle.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Particle.html
+END
+Vertex3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Vertex3D.html
+END
+AbstractRenderable.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/AbstractRenderable.html
+END
+VectorShapeRenderable.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/VectorShapeRenderable.html
+END
+Pixel3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Pixel3D.html
+END
+Vertex3DInstance.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/Vertex3DInstance.html
+END
+package-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/geom/renderables/package-detail.html
+END

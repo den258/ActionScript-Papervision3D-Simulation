@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx
+END
+DaeBlinn.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeBlinn.html
+END
+DaeInstanceMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeInstanceMaterial.html
+END
+class-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/class-list.html
+END
+DaeLambert.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeLambert.html
+END
+DaeSurface.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeSurface.html
+END
+DaeSampler2D.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeSampler2D.html
+END
+DaeConstant.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeConstant.html
+END
+DaeNewParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeNewParam.html
+END
+DaeBindVertexInput.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeBindVertexInput.html
+END
+DaePhong.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaePhong.html
+END
+DaeEffect.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeEffect.html
+END
+DaeMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeMaterial.html
+END
+DaeTexture.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/DaeTexture.html
+END
+package-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/ascollada/fx/package-detail.html
+END

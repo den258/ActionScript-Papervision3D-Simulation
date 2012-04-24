@@ -1,0 +1,73 @@
+10
+
+dir
+942
+http://papervision3d.googlecode.com/svn/trunk/as3/trunk/docs/org/papervision3d/core
+http://papervision3d.googlecode.com/svn
+
+
+
+2009-01-13T09:11:13.920683Z
+861
+johnlindquist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+071aa1e1-232a-0410-a790-59abb25ab4c3
+
+render
+dir
+
+animation
+dir
+
+effects
+dir
+
+log
+dir
+
+controller
+dir
+
+geom
+dir
+
+math
+dir
+
+culling
+dir
+
+material
+dir
+
+utils
+dir
+
+proto
+dir
+
+clipping
+dir
+
+io
+dir
+
+data
+dir
+
+view
+dir
+

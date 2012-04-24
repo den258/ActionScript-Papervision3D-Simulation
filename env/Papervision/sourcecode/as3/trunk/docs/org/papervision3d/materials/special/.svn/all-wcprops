@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/869/trunk/as3/trunk/docs/org/papervision3d/materials/special
+END
+class-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/class-list.html
+END
+BitmapParticleMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/869/trunk/as3/trunk/docs/org/papervision3d/materials/special/BitmapParticleMaterial.html
+END
+CompositeMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/CompositeMaterial.html
+END
+ParticleMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/ParticleMaterial.html
+END
+VectorShapeMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/VectorShapeMaterial.html
+END
+MovieAssetParticleMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/MovieAssetParticleMaterial.html
+END
+Letter3DMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/Letter3DMaterial.html
+END
+LineMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/LineMaterial.html
+END
+FogMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/FogMaterial.html
+END
+package-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/special/package-detail.html
+END

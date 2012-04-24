@@ -1,0 +1,86 @@
+10
+
+dir
+942
+http://papervision3d.googlecode.com/svn/trunk/as3/tags/1_7/src/org/papervision3d
+http://papervision3d.googlecode.com/svn
+
+
+
+2008-02-10T17:50:30.996964Z
+418
+sebstar55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+071aa1e1-232a-0410-a790-59abb25ab4c3
+
+scenes
+dir
+
+utils
+dir
+
+materials
+dir
+
+events
+dir
+
+components
+dir
+
+core
+dir
+
+Papervision3D.as
+file
+
+
+
+
+2010-06-27T08:04:34.437500Z
+f364460886497bfafc1691fb3933917a
+2007-08-21T04:23:45.328916Z
+200
+neoriley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3785
+
+objects
+dir
+
+cameras
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/utils
+END
+InteractiveUtils.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/utils/InteractiveUtils.as
+END
+Mouse3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/utils/Mouse3D.as
+END
+InteractiveSceneManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/utils/InteractiveSceneManager.as
+END
+MeshUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/utils/MeshUtil.as
+END
+StopWatch.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/utils/StopWatch.as
+END

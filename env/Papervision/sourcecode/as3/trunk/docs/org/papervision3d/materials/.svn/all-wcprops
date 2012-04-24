@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/869/trunk/as3/trunk/docs/org/papervision3d/materials
+END
+ColorMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/ColorMaterial.html
+END
+BitmapWireframeMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/BitmapWireframeMaterial.html
+END
+class-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/class-list.html
+END
+MovieMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/MovieMaterial.html
+END
+MovieAssetMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/MovieAssetMaterial.html
+END
+WireframeMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/WireframeMaterial.html
+END
+VideoStreamMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/VideoStreamMaterial.html
+END
+BitmapColorMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/BitmapColorMaterial.html
+END
+BitmapAssetMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/BitmapAssetMaterial.html
+END
+package-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/package-detail.html
+END
+BitmapFileMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/869/trunk/as3/trunk/docs/org/papervision3d/materials/BitmapFileMaterial.html
+END
+BitmapMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/BitmapMaterial.html
+END
+BitmapViewportMaterial.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/materials/BitmapViewportMaterial.html
+END

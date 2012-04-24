@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto
+END
+MaterialObject3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/MaterialObject3D.html
+END
+class-list.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/class-list.html
+END
+LightObject3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/LightObject3D.html
+END
+DisplayObjectContainer3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/DisplayObjectContainer3D.html
+END
+CameraObject3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/CameraObject3D.html
+END
+GeometryObject3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/GeometryObject3D.html
+END
+package-detail.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/package-detail.html
+END
+SceneObject3D.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/861/trunk/as3/trunk/docs/org/papervision3d/core/proto/SceneObject3D.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/render/draw
+END
+IParticleDrawer.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/render/draw/IParticleDrawer.as
+END
+ITriangleDrawer.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/render/draw/ITriangleDrawer.as
+END
+ILineDrawer.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/render/draw/ILineDrawer.as
+END

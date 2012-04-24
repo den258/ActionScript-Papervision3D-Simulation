@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/controller
+END
+IObjectController.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/controller/IObjectController.as
+END
+AnimationController.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/controller/AnimationController.as
+END
+IControllerProvider.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/controller/IControllerProvider.as
+END
+SkinController.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/controller/SkinController.as
+END
+MorphController.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/928/trunk/branches/fp10/src/org/papervision3d/core/controller/MorphController.as
+END
