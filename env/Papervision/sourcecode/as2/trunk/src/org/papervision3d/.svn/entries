@@ -1,80 +1,0 @@
-10
-
-dir
-942
-http://papervision3d.googlecode.com/svn/trunk/as2/trunk/src/org/papervision3d
-http://papervision3d.googlecode.com/svn
-
-
-
-2007-07-09T11:10:50.667478Z
-24
-C4RL054321
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-071aa1e1-232a-0410-a790-59abb25ab4c3
-
-scenes
-dir
-
-materials
-dir
-
-samples
-dir
-
-core
-dir
-
-Papervision3D.as
-file
-
-
-
-
-2010-06-27T07:59:58.406250Z
-3cf739e26e64de58a9c42bcca51382b9
-2007-07-04T02:42:55.787743Z
-19
-neoriley
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3132
-
-objects
-dir
-
-cameras
-dir
-
